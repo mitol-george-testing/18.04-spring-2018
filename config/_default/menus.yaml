@@ -1,0 +1,44 @@
+leftnav:
+- identifier: f7b60d21-ef20-eb69-7657-1a19a0a84718
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 152ccd68-ee2b-3476-2ede-74eae3bf6caf
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 0abe434b-19be-6227-ebe3-b5291011a10d
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 30
+- identifier: 3112dbcd-9b11-49db-60b0-7ee958f57cd4
+  name: Recitations
+  url: /pages/recitations
+  weight: 40
+- identifier: 8a796d54-168d-d707-bfb3-baf5cab95fca
+  name: Exams
+  url: /pages/exams
+  weight: 50
+- identifier: 895a4821-6cfe-cadf-afd6-973524d079f5
+  name: Study Materials
+  url: /pages/study-materials/
+  weight: 60
+- identifier: c25a67a4-a6ed-1e83-77ef-a8b0dd820160
+  name: 'MATLAB Tutorial 1: Basics'
+  parent: 895a4821-6cfe-cadf-afd6-973524d079f5
+  url: /pages/study-materials/matlab-tutorial-1-basics
+  weight: 70
+- identifier: 6f587f82-4462-0223-3ebb-c53f3e230a02
+  name: 'MATLAB Tutorial 2: Plotting'
+  parent: 895a4821-6cfe-cadf-afd6-973524d079f5
+  url: /pages/study-materials/matlab-tutorial-2-plotting
+  weight: 80
+- identifier: ab7a0e08-75fc-a007-c7b3-75e6fba2af72
+  name: 'MATLAB Tutorial 3: Eigenstuff'
+  parent: 895a4821-6cfe-cadf-afd6-973524d079f5
+  url: /pages/study-materials/matlab-tutorial-3-eigenstuff
+  weight: 90
+- identifier: 0d58de73-fdbc-d44f-9b1b-72c98d7178ac
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 100
